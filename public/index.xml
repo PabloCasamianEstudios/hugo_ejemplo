@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal :: Sitio web de Pablo</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>HOME</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:23:51 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdowns</title>
+      <link>http://localhost:1313/markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:23:51 +0200</pubDate>
+      <guid>http://localhost:1313/markdown/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/personal/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:23:51 +0200</pubDate>
+      <guid>http://localhost:1313/personal/index.html</guid>
+      <description>Sobre mi Esta página tiene isnformación sobre mi experiencia técnica&#xA;Attachments probatinas.php (396 B) Este texto lo quiero en rosa</description>
+    </item>
+  </channel>
+</rss>
