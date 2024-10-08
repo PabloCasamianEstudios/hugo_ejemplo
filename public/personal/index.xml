@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal :: Sitio web de Pablo</title>
-    <link>http://localhost:1313/hugo_ejemplo/personal/index.html</link>
+    <link>http://localhost:45169/hugo_ejemplo/personal/index.html</link>
     <description>Sobre mi Esta página tiene isnformación sobre mi experiencia técnica&#xA;Attachments probatinas.php (396 B) Este texto lo quiero en rosa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 13:26:38 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo_ejemplo/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45169/hugo_ejemplo/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>programacion</title>
-      <link>http://localhost:1313/hugo_ejemplo/personal/programacion/index.html</link>
+      <link>http://localhost:45169/hugo_ejemplo/personal/programacion/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:26:29 +0200</pubDate>
-      <guid>http://localhost:1313/hugo_ejemplo/personal/programacion/index.html</guid>
+      <guid>http://localhost:45169/hugo_ejemplo/personal/programacion/index.html</guid>
       <description>Programación código de php&#xA;php</description>
     </item>
     <item>
       <title>markdown</title>
-      <link>http://localhost:1313/hugo_ejemplo/personal/markdown/index.html</link>
+      <link>http://localhost:45169/hugo_ejemplo/personal/markdown/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:26:38 +0200</pubDate>
-      <guid>http://localhost:1313/hugo_ejemplo/personal/markdown/index.html</guid>
+      <guid>http://localhost:45169/hugo_ejemplo/personal/markdown/index.html</guid>
       <description>Markdown</description>
     </item>
     <item>
       <title>tema2</title>
-      <link>http://localhost:1313/hugo_ejemplo/personal/tema2/index.html</link>
+      <link>http://localhost:45169/hugo_ejemplo/personal/tema2/index.html</link>
       <pubDate>Fri, 04 Oct 2024 13:26:36 +0200</pubDate>
-      <guid>http://localhost:1313/hugo_ejemplo/personal/tema2/index.html</guid>
+      <guid>http://localhost:45169/hugo_ejemplo/personal/tema2/index.html</guid>
       <description>Mis aficiones Comentaré lo que me gudta</description>
     </item>
   </channel>

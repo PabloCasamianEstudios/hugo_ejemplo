@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/personal/programacion/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/personal/programacion/index.html</loc>
     <lastmod>2024-10-04T13:26:29+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/personal/markdown/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/personal/markdown/index.html</loc>
     <lastmod>2024-10-04T13:26:38+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/personal/tema2/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/personal/tema2/index.html</loc>
     <lastmod>2024-10-04T13:26:36+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/markdown/_basico/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/markdown/_basico/index.html</loc>
     <lastmod>2024-10-04T13:23:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/markdown/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/markdown/index.html</loc>
     <lastmod>2024-10-04T13:23:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/personal/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/personal/index.html</loc>
     <lastmod>2024-10-04T13:23:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/index.html</loc>
     <lastmod>2024-10-04T13:23:51+02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/categories/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/hugo_ejemplo/tags/index.html</loc>
+    <loc>http://localhost:45169/hugo_ejemplo/tags/index.html</loc>
   </url>
 </urlset>
